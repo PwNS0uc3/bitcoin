@@ -1,3 +1,7 @@
+Endcoin repo from bitcoin/bitcoin
+=================================
+Everything under is bitcoin README
+
 Bitcoin Core integration/staging tree
 =====================================
 
